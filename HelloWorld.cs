@@ -1,7 +1,5 @@
 namespace HelloWorld {
-
 using System;
-
 
     class Hello{
         static void main (string[] args){
